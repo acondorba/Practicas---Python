@@ -1,2 +1,2 @@
-# Practicas---Python
+# Practicas Python
 Practicas de curso de Python
